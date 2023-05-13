@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+li {color: blueviolet;}
+
+body {background-color: black;background-image: linear-gradient(black,purple);}
+
+.link-header {text-decoration: none;}
+
+h1 {color: cyan;}
+
+h2 {color:blueviolet}
